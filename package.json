@@ -1,0 +1,19 @@
+{
+  "name": "nodeimgupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xDinomode <xdinomode@gmail.com> (https://github.com/xDinomode)",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "gridfs-stream": "^1.1.1",
+    "mime": "^1.3.4",
+    "mongoose": "^4.3.7",
+    "multer": "^1.1.0"
+  }
+}
